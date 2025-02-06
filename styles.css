@@ -1,0 +1,13 @@
+.dark-mode {
+    background: black;
+    color: white;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+}
+
+.dark-mode img {
+    filter: brightness(70%);
+}
