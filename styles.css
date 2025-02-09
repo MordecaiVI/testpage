@@ -1,13 +1,10 @@
-.dark-mode {
-    background: black;
-    color: white;
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
 }
 
-img {
-    width: 400px;
-    height: 300px;
-}
-
-.dark-mode img {
-    filter: brightness(70%);
+h1 {
+    font-family: "Georgia", serif;
+    font-size: 36px;
+    color: #333;
 }
